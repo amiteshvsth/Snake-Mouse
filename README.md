@@ -1,2 +1,2 @@
-# Snake-Game-Js
+# Snake-Mouse
 https://amiteshvsth.github.io/Snake-Game-Js
